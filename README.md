@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Mohan Vamsi Krishna Yanamadala 👋
 
-<!--
-**krishy-25/krishy-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ymvk/)
 
-Here are some ideas to get you started:
+- 🎓 I'm studying Computer Science at the State University of New York at Binghamton, graduating in May 2025.
+- 👨‍💻 Previously a Software Developer Intern.
+- 💬 Ask me about Databases, Python.
+- ⚡ Fun fact: In my free time, I like to go driving 🚗.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm most comfortable working with
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
