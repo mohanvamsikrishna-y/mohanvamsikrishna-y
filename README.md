@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ymvk/)
 
-- 🎓 I'm studying Computer Science at the State University of New York at Binghamton, graduating in December 2025.
+- 🎓 I'm studying Computer Science at the State University of New York at Binghamton.
 - 👨‍💻 Previously a Software Developer Intern.
 - 💬 Ask me about Python, SQL, Databases.
 - ⚡ Fun fact: In my free time, I like to go driving 🚗.
