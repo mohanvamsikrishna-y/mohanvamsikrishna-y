@@ -5,7 +5,7 @@
 - 🎓 I'm studying Computer Science at the State University of New York at Binghamton.
 - 👨‍💻 Previously a Software Developer Intern.
 - 💬 Ask me about Python, working with Data.
-- ⚡ Fun fact: In my free time, I like to go driving 🚗.
+- ⚡ Fun fact: In my free time, I like to go hikes.
 
 ## I'm most comfortable working with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
