@@ -28,4 +28,4 @@ Software Engineer building backend systems and AI/LLM-powered applications.
 
 ## GitHub Stats
 
-![Mohan's GitHub stats](https://github-stats-extended.vercel.app/api?username=mohanvamsikrishna-y&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Mohan's GitHub stats](https://github-stats-extended.vercel.app/api?username=mohanvamsikrishna-y&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_rank=true&hide=issues,contribs)
