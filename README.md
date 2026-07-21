@@ -5,12 +5,12 @@ Software Engineer building backend systems and AI/LLM-powered applications.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ymvk/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://mvk-portfolio.vercel.app/)
 
-- 🎓 Graduated from M.S. in Computer Science (STEM) at Binghamton University, SUNY — May 2026
+- 🎓 Finishing my M.S. in Computer Science (STEM) at Binghamton University, SUNY — May 2026
 - 💻 Graduate Student Assistant (Software Developer) at Binghamton University — building internal tools and an AI-powered RAG document assistant
 - 👨‍💻 Previously a Software Developer at Flipkart, working on backend systems at scale
 - 🤖 Building full-stack AI side projects: LLM tooling, RAG pipelines, agentic workflows
 - 💬 Ask me about backend systems, RAG/LLM applications, or system design
-- ⚡ Fun fact: in my free time, I like to go hiking, watch F1
+- ⚡ Fun fact: in my free time, I like to go hiking
 
 ## I'm most comfortable working with
 
@@ -28,4 +28,4 @@ Software Engineer building backend systems and AI/LLM-powered applications.
 
 ## GitHub Stats
 
-![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohanvamsikrishna-y&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Mohan's GitHub stats](https://github-stats-extended.vercel.app/api?username=mohanvamsikrishna-y&show_icons=true&theme=dark&hide_border=true&count_private=true)
