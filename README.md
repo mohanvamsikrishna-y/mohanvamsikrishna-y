@@ -6,7 +6,6 @@ Software Engineer building backend systems and AI/LLM-powered applications.
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://mvk-portfolio.vercel.app/)
 
 - 🎓 Finishing my M.S. in Computer Science (STEM) at Binghamton University, SUNY — May 2026
-- 💻 Graduate Student Assistant (Software Developer) at Binghamton University — building internal tools and an AI-powered RAG document assistant
 - 👨‍💻 Previously a Software Developer at Flipkart, working on backend systems at scale
 - 🤖 Building full-stack AI side projects: LLM tooling, RAG pipelines, agentic workflows
 - 💬 Ask me about backend systems, RAG/LLM applications, or system design
